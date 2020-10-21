@@ -1,0 +1,70 @@
+
+
+
+header { 
+    background-color:greenyellow 
+    padding 1rem;}
+
+.logo {
+    width: 150px}
+
+section {
+    padding: 1rem; color: whitesmoke; 
+    font-size: 1rem }
+
+.banner {
+    background-image: url(http://www.musictory.com/pictures/originali/105542.jpg); 
+    background-size: cover; 
+    background-position: top center; 
+    min-height: 300px;} 
+
+.banner h3 {
+    color: white; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    text-shadow: black 3px 3px 5px; 
+    text-align: center; } 
+
+.container {
+    max-width: 1200px; 
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: rgb(92, 180, 20);}
+
+p {
+    margin-top: 1rem; 
+    margin-bottom: 1rem;}
+
+.about {
+    color: whitesmoke; 
+    font-size: 2rem}
+
+body {
+    background-color: rgb(120, 209, 18);}
+
+.bandphoto {
+    float: left;
+    margin-right: 1.5rem;
+    border: deepskyblue;}
+
+.music-video {
+float: left; 
+background-color: rgb(81, 180, 24);
+align-content: center;}
+
+.clr {
+    clear: both;
+width: 100%;}
+
+footer {
+background-color: rgb(89, 202, 23);
+color: lightblue;
+text-align: right;
+padding: 0rem;
+}
+
+a {color: rgb(71, 32, 178);
+}
+
+:active { 
+    color: yellow;}
